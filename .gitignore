@@ -1,0 +1,34 @@
+##############################
+# General
+##############################
+
+# Compiled python files
+*.py[cod]
+
+# iPython notebook backups
+.ipynb_checkpoints
+
+# Virtualenv
+env/
+
+# Picasa
+.DS_Store
+
+## emacs backups
+*~
+
+## R backups
+*.Rhistory
+
+##############################
+# Rails
+##############################
+
+# Ignore bundler config.
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*
+!/log/.keep
+/tmp
+
