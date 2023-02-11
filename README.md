@@ -7,8 +7,9 @@ A collection of instructive jupyter notebooks and links to excellend internet re
 
 | Lesson | Topic | Date Created |
 |---|---|---|
-| [Object-oriented programming in Python](Classes%20and%20OOP%20(Python).ipynb) | Coding | 2019-10-24 |
+| [Automated tool for pulling research questionnaire PDFs from Qualtrics](Pulling%20Qualtrics%20PDF%20responses%20automatically.ipynb) | Coding, Web Scraping | 2023-02-10 |
 | [Coin flipping, statistics, and pyMC](Coin%20flipping,%20statistics,%20and%20pyMC.ipynb) | Statistics | 2019-10-30 |
+| [Object-oriented programming in Python](Classes%20and%20OOP%20(Python).ipynb) | Coding | 2019-10-24 |
 | [Git and Branching: a game!](https://learngitbranching.js.org/) | Coding | (external) |
 
 ### Coming "soon"
